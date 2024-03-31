@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335546594811",
+    "project_id": "tivy-papb-7",
+    "storage_bucket": "tivy-papb-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335546594811:android:1f48cc1dae9e808d37475e",
+        "android_client_info": {
+          "package_name": "com.example.pomodoro_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiBMaUiqvQOiXe2r7wsXCJK6__ck7AoZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

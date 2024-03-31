@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCfCYqSnKXIZ3hBA4v9ydjtCbKqM-DARhk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>985173915718</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pomodoroApp</string>
+	<key>PROJECT_ID</key>
+	<string>pomodoroapps-raion</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pomodoroapps-raion.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:985173915718:ios:701e5e8af2584720ab3247</string>
+</dict>
+</plist>
